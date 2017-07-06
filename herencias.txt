@@ -1,8 +1,0 @@
-Herencia
-Polimorfismo:
-	Sobreescrtura:
-			Se trata de reutilizar las funciones de la SuperClase, aprovechar sus lineas de código y agregar más
-	
-
-	Sobrecarga:
-			
